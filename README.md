@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/6TUMrAt5cMIAAAAC/vagabond-manga.gif" alt="Vagabond manga banner" width="100%" />
 
   <h1>Hey, I'm <b>Ashish Kurse</b> 👋</h1>
-  <p><i>Full‑Stack SWE • Systems & Scale • Pragmatic builder</i></p>
+  <p><i>Full‑Stack SWE • builder</i></p>
 
   <p>
     <a href="mailto:kurseashish3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kurseashish3%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -51,7 +51,8 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+  <img alt="C# .NET" src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white"/>
 </p>
 
 #### Frameworks & Libraries
@@ -59,8 +60,14 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+  <img alt="SendGrid" src="https://img.shields.io/badge/SendGrid-00B3E3?logo=sendgrid&logoColor=white"/>
 </p>
 
 #### Developer Tools
@@ -69,7 +76,10 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
 </p>
+
 
 ---
 
