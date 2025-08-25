@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Vagabond-themed banner (replace the src with your preferred GIF if you like) -->
-  <img src="https://media.tenor.com/6TUMrAt5cMIAAAAC/vagabond-manga.gif" alt="Vagabond manga banner" width="100%" />
-
   <h1>Hey, I'm <b>Ashish Kurse</b> 👋</h1>
   <p><i>Full‑Stack SWE • builder</i></p>
 
