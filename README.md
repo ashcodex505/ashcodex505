@@ -44,14 +44,6 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 
 ---
 
-### What I enjoy
-
-- Designing for scale and reliability, and tackling hard systems problems
-- Learning how complex systems fit together—and iterating to make them better
-- Building products end‑to‑end and measuring real‑world impact
-
----
-
 ### Tech stack
 
 #### Languages
@@ -81,10 +73,20 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 
 ---
 
-### Featured project
+### Featured projects
+
 
 - <b>I Want_ (SunHacks Fall '24 – 3rd place, 1300+ participants)</b> — <a href="https://github.com/ashcodex505/I_Want" target="_blank">repo</a>
   - Redis‑backed caching for faster restaurant queries, Flask APIs for retrieval/filtering, React + MUI UI, Google Maps/Places integration, AWS Textract for nutrition extraction, Supabase for storage, Vercel deployment.
+ 
+- <b>TAMID Tech Blog</b> — <a href="https://tamid-tech-blog-challenge.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/TAMID-Tech-Blog-Challenge" target="_blank">repo</a>
+  - Full‑stack TypeScript blog platform (React + Express) with Supabase Auth and Object Storage.
+  - Create public or private posts with dynamic tag categories and attach up to 5 images per post.
+  - Responsive UI, image upload with previews, and protected routes.
+
+- <b>TAMID ASU Website</b> — <a href="https://tamid-asu-website-kappa.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/tamid-asu-website" target="_blank">repo</a>
+  - Engagement/landing site for TAMID ASU built to boost visibility and member interest.
+  - Modern, responsive design highlighting programs, tracks, and involvement opportunities.
 
 ---
 
