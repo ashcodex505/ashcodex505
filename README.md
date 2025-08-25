@@ -26,7 +26,7 @@
 
 I'm a full‑stack software engineer who enjoys building and scaling applications, solving complex problems, and understanding systems end‑to‑end—especially how thoughtful design can impact millions of users. I previously interned at DriveTime (Summer 2025) on the Bridgecrest loan platform and led full‑stack development for the [ASU BAP](https://www.asubap.com/) platform, a Canvas‑style replacement powering member onboarding, admin operations, event management with GPS check‑ins, sponsor/member search, and resource management.
 
-When I'm not shipping code, I'm at the gym or reading manga (Vagabond fan).
+When I'm not shipping code, I'm at the gym or reading manga.
 
 If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</b>.
 
@@ -108,6 +108,5 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 
 ---
 
-<sub>Site referenced: <a href="https://www.asubap.com/">asubap.com</a></sub>
 
 
