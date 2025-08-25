@@ -9,7 +9,7 @@
   <p>
     <a href="mailto:kurseashish3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kurseashish3%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ashish-kurse" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/ashcodex505" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/ashcodex505" target="_blank"></a>
     <a href="https://www.youtube.com/@Ash_Codex/shorts" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </p>
 
