@@ -10,13 +10,17 @@
     <a href="mailto:kurseashish3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kurseashish3%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ashish-kurse" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/ashcodex505" target="_blank"></a>
-    <a href="https://www.youtube.com/@Ash_Codex/shorts" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@Ash_Codex/shorts" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <a href="https://www.asubap.com/" target="_blank"><img alt="ASU BAP" src="https://img.shields.io/badge/ASU%20BAP-8C1D40?style=for-the-badge&labelColor=8C1D40&color=FFC627"/>
+    </a>
+    
+    
   </p>
 
-  <p>
+ 
     <!-- Affiliation badge -->
-    <a href="https://www.asubap.com/" target="_blank"><img alt="ASU BAP" src="https://img.shields.io/badge/ASU%20BAP-8C1D40?style=for-the-badge&labelColor=8C1D40&color=FFC627"/></a>
-  </p>
+   
+
 
 </div>
 
