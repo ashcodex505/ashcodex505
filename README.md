@@ -60,7 +60,6 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
@@ -77,7 +76,6 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
 </p>
 
 
