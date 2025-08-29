@@ -39,7 +39,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   - Contributed to Bridgecrest’s payments/loan systems: end‑to‑end service + database changes, GraphQL federation (Hot Chocolate), and stored procedure optimizations for high‑throughput workloads.
   - Owned CI/CD flows in Azure DevOps and monitored rollouts with Datadog for safe, observable releases.
 
-- **ASU BAP – Lead Full‑Stack Engineer** — <a href="https://www.asubap.com/" target="_blank">live</a> • <a href="https://www.youtube.com/watch?v=iScyFMEi-Ow&t=17s" target="_blank">video demo</a>
+- **ASU BAP – Lead Full‑Stack Engineer** — <a href="https://www.asubap.com/" target="_blank">live</a> • <a href="https://www.youtube.com/watch?v=iScyFMEi-Ow" target="_blank">video demo</a>
   - Built and deployed a full‑stack platform (React/TypeScript, Express/TypeScript, Supabase, Vercel) used by 100+ members and sponsors (IRS, Honeywell, KPMG, Deloitte, EY, PwC).
   - Implemented RBAC, GPS‑based event attendance, RSVP tracking, SendGrid bulk email with dynamic templates, Supabase cron jobs, search (Fuse.js), and resource management.
 
