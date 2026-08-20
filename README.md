@@ -49,7 +49,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 <p align="center">
   <a href="https://www.americanexpress.com/" target="_blank"><img src="assets/american-express-logo.svg" height="52" alt="American Express logo"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.drivetime.com/" target="_blank"><img src="assets/drivetime-logo.svg" height="52" alt="DriveTime logo"></a>
+  <a href="https://www.drivetime.com/" target="_blank"><img src="assets/drivetime-icon.svg" height="52" alt="DriveTime logo"></a>
 </p>
 
 - **American Express – Software Engineering Intern, Global Network Services (Summer 2026)**
