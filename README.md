@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="assets/terminal-name.svg" width="320" alt="Animated green terminal typing: $ whoami, ashish kurse">
-  <p><i>Full‑Stack SWE • builder</i></p>
+  <img src="assets/internship-banner.svg" width="520" alt="AMEX SWE Intern | DriveTime SWE Intern">
 
   <p>
     <a href="mailto:kurseashish3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kurseashish3%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -52,12 +52,6 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 ---
 
 ### Highlights
-
-<p align="center">
-  <a href="https://www.americanexpress.com/" target="_blank"><img src="assets/american-express-logo.svg" height="52" alt="American Express logo"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.drivetime.com/" target="_blank"><img src="assets/drivetime-icon.svg" height="52" alt="DriveTime logo"></a>
-</p>
 
 - **American Express – Software Engineering Intern, Global Network Services (Summer 2026)**
   - Built an AI root-cause analysis tool for 5+ developer teams supporting a payment network handling up to 6,000 transactions/second; correlating Confluence, Jira/Rally, and GitHub context with live Kibana logs and Prometheus metrics cutting manual cross-tool triage time by 90% 
