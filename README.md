@@ -23,12 +23,13 @@
 
 <div align="center">
 
+  
+ <!--  <img src="assets/roronoa-zoro.gif" width="46" alt="Animated Roronoa Zoro sword sprite">&nbsp; -->
+  <a href="https://github.com/ashcodex505/gym-git"><img src="https://raw.githubusercontent.com/ashcodex505/gym-git/main/generated/hero-sprite.gif" width="66" alt="Animated IronGraph hero"></a>&nbsp; 
   <a href="https://codex-pet.org/pets/luffy-gear-5/"><img src="assets/luffy-gear-5-running.gif" width="66" alt="Animated running Luffy Gear 5 Codex Pet"></a>&nbsp;
-  <img src="assets/roronoa-zoro.gif" width="46" alt="Animated Roronoa Zoro sword sprite">&nbsp;
-  <a href="https://github.com/ashcodex505/gym-git"><img src="https://raw.githubusercontent.com/ashcodex505/gym-git/main/generated/hero-sprite.gif" width="66" alt="Animated IronGraph hero"></a>&nbsp;
   <a href="https://github.com/ashcodex505/Multimodal_Search"><img src="assets/coding-sprite.gif" width="66" alt="Animated coding sprite"></a>&nbsp;
-  <img src="assets/killua-zoldyck.gif" width="49" alt="Animated Killua Zoldyck lightning sprite">&nbsp;
-  <img src="assets/gon-freecss.gif" width="47" alt="Animated Gon Freecss sprite">
+ <!--  <img src="assets/killua-zoldyck.gif" width="49" alt="Animated Killua Zoldyck lightning sprite">&nbsp;
+  <img src="assets/gon-freecss.gif" width="47" alt="Animated Gon Freecss sprite"> -->
 
 </div>
 
