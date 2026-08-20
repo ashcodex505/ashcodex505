@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 92" role="img" aria-labelledby="title desc">
+  <title id="title">Animated terminal introduction for Ashish Kurse</title>
+  <desc id="desc">A terminal types whoami and returns ashish kurse.</desc>
+
+  <rect x="4" y="4" width="412" height="84" rx="7" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <defs>
+    <clipPath id="command-clip">
+      <rect x="20" y="15" height="26" width="0">
+        <animate attributeName="width" values="0;0;108;108;0" keyTimes="0;0.03;0.24;0.88;1" dur="3.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="name-clip">
+      <rect x="20" y="50" height="28" width="0">
+        <animate attributeName="width" values="0;0;154;154;0" keyTimes="0;0.28;0.55;0.88;1" dur="3.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#command-clip)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#3fb950">
+    <text x="20" y="37">$</text>
+    <text x="38" y="37">whoami</text>
+  </g>
+
+  <text x="20" y="73" fill="#7ee787" clip-path="url(#name-clip)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">ashish kurse</text>
+
+  <rect y="41" width="8" height="3" rx="1" fill="#3fb950">
+    <animate attributeName="x" values="20;20;128;128;128" keyTimes="0;0.03;0.24;0.27;1" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.03;0.24;0.27;1" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect y="77" width="8" height="3" rx="1" fill="#7ee787">
+    <animate attributeName="x" values="20;20;174;174" keyTimes="0;0.28;0.55;1" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;1;0;1;0;0" keyTimes="0;0.27;0.28;0.55;0.61;0.67;0.73;0.79;0.88;1" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
