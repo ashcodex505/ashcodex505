@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/terminal-name.svg" width="320" alt="Animated green terminal typing: $ whoami, ashish kurse">
+  <img src="assets/terminal-name.svg" width="320" alt="Animated green terminal typing: $ whoami, ashish kurse"><br>
   <img src="assets/internship-banner.svg" width="520" alt="AMEX SWE Intern | DriveTime SWE Intern">
 
   <p>
