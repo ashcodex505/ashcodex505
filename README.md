@@ -14,7 +14,13 @@
     
   </p>
 
- 
+  <a href="https://github.com/ashcodex505" aria-label="View Ashish Kurse's GitHub profile and contribution activity">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg">
+      <img src="assets/contributions-light.svg" width="846" alt="Ashish Kurse's GitHub contribution calendar for the last year">
+    </picture>
+  </a>
 
    
 
