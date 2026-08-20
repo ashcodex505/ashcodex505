@@ -103,7 +103,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img alt="C# .NET" src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23%20.NET-512BD4?logo=dotnet&logoColor=white"/>
 </p>
 
 #### Frameworks & Libraries
@@ -116,11 +116,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
-  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-443E38?logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
-  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=white"/>
-  <img alt="Hot Chocolate" src="https://img.shields.io/badge/Hot%20Chocolate-6F2CAC?logo=graphql&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white"/>
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white"/>
@@ -137,9 +133,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white"/>
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img alt="Google Gemini Embedding Model" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=white"/>
   <img alt="UMAP" src="https://img.shields.io/badge/UMAP-5B4B8A?logoColor=white"/>
   <img alt="Google APIs" src="https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white"/>
   <img alt="AWS Textract" src="https://img.shields.io/badge/AWS%20Textract-FF9900?logo=amazonwebservices&logoColor=black"/>
@@ -162,10 +156,7 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white"/>
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
-  <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white"/>
-  <img alt="PEGA" src="https://img.shields.io/badge/PEGA-001F5B?logoColor=white"/>
   <img alt="Raycast" src="https://img.shields.io/badge/Raycast-FF6363?logo=raycast&logoColor=white"/>
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
 </p>
 
 ---
