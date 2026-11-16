@@ -76,9 +76,6 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
   - Built a local-first macOS app that searches images, PDFs, and videos from natural-language descriptions using Gemini multimodal embeddings and ChromaDB vector search, with incremental indexing that skips unchanged files.
   - Developed a FastAPI dashboard with ranked results, previews, file-type filters, and an interactive similarity map; made the same search workflow available through Raycast, the CLI, and a native macOS launcher.
 
-- + <b>I Want_ (SunHacks Fall '24 – 3rd place, 1300+ participants)</b> — <a href="https://github.com/ashcodex505/I_Want" target="_blank">repo</a>
-  - Built a meal-discovery app that recommends nearby restaurant dishes based on a user’s macro goals and location, helping users find nutrition-aligned options in seconds.
-  - Redis‑backed caching for faster restaurant queries, Flask APIs for retrieval/filtering, React + MUI UI, Google Maps/Places integration, AWS Textract for nutrition extraction, Supabase for storage, Vercel deployment.
 
 - &lt;/&gt; <b>TAMID Tech Blog</b> — <a href="https://tamid-tech-blog-challenge.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/TAMID-Tech-Blog-Challenge" target="_blank">repo</a>
   - Full‑stack TypeScript blog platform (React + Express) with Supabase Auth and Object Storage.
