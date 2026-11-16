@@ -1,0 +1,47 @@
+name: Refresh profile contribution calendar
+
+on:
+  schedule:
+    - cron: '23 14 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/generate-contributions.mjs
+      - .github/workflows/refresh-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile-calendar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Standard hosted runners are free for public repositories.
+    # Skip if visibility changes, rather than using private-repository minutes.
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - name: Refresh contribution calendar
+        run: node scripts/generate-contributions.mjs --username ashcodex505
+      - name: Save changed calendar assets
+        run: |
+          git add assets/contributions-light.svg assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution calendar is already current."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Refresh profile contribution calendar"
+          git push
