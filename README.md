@@ -68,25 +68,22 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 
 ### Featured projects
 
-- <img src="assets/project-multimodal-search.png" width="24" height="24" alt=""> <b>Multimodal Search</b> — <a href="https://github.com/ashcodex505/Multimodal_Search" target="_blank">repo</a>
+- ▷ <b>Sammie Roto Web</b> — <a href="https://github.com/ashcodex505/sammie-roto-web" target="_blank">repo</a>
+  - Built a local-first browser video masking studio with real SlimSAM inference using ONNX Runtime Web, WebGPU, and a WASM fallback; footage stays on the user's device.
+  - Added independent object masks, positive/negative prompts, non-destructive brush corrections, frame-by-frame range segmentation, local recovery, project archives, and PNG/WebM exports.
+
+- ⌕ <b>Multimodal Search</b> — <a href="https://github.com/ashcodex505/Multimodal_Search" target="_blank">repo</a>
   - Built a local-first macOS app that searches images, PDFs, and videos from natural-language descriptions using Gemini multimodal embeddings and ChromaDB vector search, with incremental indexing that skips unchanged files.
   - Developed a FastAPI dashboard with ranked results, previews, file-type filters, and an interactive similarity map; made the same search workflow available through Raycast, the CLI, and a native macOS launcher.
 
-- <img src="assets/project-i-want.png" width="24" height="24" alt=""> <b>I Want_ (SunHacks Fall '24 – 3rd place, 1300+ participants)</b> — <a href="https://github.com/ashcodex505/I_Want" target="_blank">repo</a>
+- + <b>I Want_ (SunHacks Fall '24 – 3rd place, 1300+ participants)</b> — <a href="https://github.com/ashcodex505/I_Want" target="_blank">repo</a>
   - Built a meal-discovery app that recommends nearby restaurant dishes based on a user’s macro goals and location, helping users find nutrition-aligned options in seconds.
   - Redis‑backed caching for faster restaurant queries, Flask APIs for retrieval/filtering, React + MUI UI, Google Maps/Places integration, AWS Textract for nutrition extraction, Supabase for storage, Vercel deployment.
 
-- <img src="assets/project-tamid-tech-blog.png" width="24" height="24" alt=""> <b>TAMID Tech Blog</b> — <a href="https://tamid-tech-blog-challenge.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/TAMID-Tech-Blog-Challenge" target="_blank">repo</a>
+- &lt;/&gt; <b>TAMID Tech Blog</b> — <a href="https://tamid-tech-blog-challenge.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/TAMID-Tech-Blog-Challenge" target="_blank">repo</a>
   - Full‑stack TypeScript blog platform (React + Express) with Supabase Auth and Object Storage.
   - Create public or private posts with dynamic tag categories and attach up to 5 images per post.
   - Responsive UI, image upload with previews, and protected routes.
-
-- <img src="assets/project-tamid-asu.png" width="24" height="24" alt=""> <b>TAMID ASU Website</b> — <a href="https://tamid-asu-website-kappa.vercel.app/" target="_blank">live</a> • <a href="https://github.com/ashcodex505/tamid-asu-website" target="_blank">repo</a>
-  - Engagement/landing site for TAMID ASU built to boost visibility and member interest.
-  - Modern, responsive design highlighting programs, tracks, and involvement opportunities.
-
-- <img src="assets/project-irongraph.png" width="24" height="24" alt=""> <b>IronGraph (gym-git)</b> — <a href="https://github.com/ashcodex505/gym-git" target="_blank">repo</a>
-  - Git-native workout tracker that turns free-form GitHub Issues into validated, human-authored workout commits and regenerates PRs, streaks, XP, charts, an exercise graph, and animated per-muscle pixel art.
 
 ---
 
@@ -169,3 +166,4 @@ If you'd like to connect or collaborate, email me at <b>kurseashish3@gmail.com</
 - YouTube: <a href="https://www.youtube.com/@Ash_Codex/shorts" target="_blank">@Ash_Codex</a>
 
 ---
+
